@@ -1,0 +1,41 @@
+h1 {
+    font-size: 24px;
+    color:blue;
+    font-weight: bold;
+    font-style: italic;
+}
+h2 {
+    font-size: 20px;
+    color: #0000ff;
+    font-weight: bold;
+}
+h3 {
+    font-size: 16px;
+    color: teal;
+    font-weight: bold;
+}
+p{
+color: #4D4D4D ;
+
+}
+a{
+    color: #8A2BE2;
+}
+#hoi{
+    font-weight: bold;
+}
+header{
+    min-height: calc(33.33vh);
+     background-image: url("img/controlers.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: scroll, local;;
+    background-size: inherit;
+
+}
+article{
+    border-style: solid;
+    border-radius: 3%;
+    border-left-width: 10px;
+    border-color: gray;
+}
